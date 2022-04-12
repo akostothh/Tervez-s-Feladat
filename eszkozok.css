@@ -1,0 +1,31 @@
+body{
+    background-image: url(hatter4.jpg);
+}
+.eszkozok{
+    font-size: larger;
+    width: 100%;
+    position: absolute;
+    top: 30%;
+    transform: translateY(-50%);
+    text-align: center;
+    color: rgb(0, 0, 0);
+    border: 100px;
+}
+.arak{
+    width: 100%;
+    position: absolute;
+    top: 70%;
+    color: rgb(0, 0, 0);
+    transform: translateY(-50%);
+    text-align: center;
+    font-size: larger;
+}
+.darab{
+    width: 100%;
+    position: absolute;
+    top: 110%;
+    color: rgb(0, 0, 0);
+    transform: translateY(-50%);
+    text-align: center;
+    font-size: larger;
+}
